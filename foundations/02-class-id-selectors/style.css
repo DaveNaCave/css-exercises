@@ -1,6 +1,23 @@
 .odds {
     color: rgb(0,0,0);
     background-color: rgb(226, 98, 98);
-    font-size: 18px;
+    font-family: Verdana, "DejaVu sans", sans-serif;
 }
 
+#big {
+    color: #0000FF;
+    font-size: 54px;
+}
+
+.bodds {
+    color: rgb(0,0,0);
+    background-color: rgb(226, 98, 98);
+    font-size: 42px;
+}
+
+#bold {
+    color: rgb(0,0,0);
+    background-color: #39FF14;
+    font-size: 36px;
+    font-weight: bold;
+}
